@@ -1,2 +1,2 @@
 # AreaDoTriangulo
-Programa que caucula a área de um triângulo e informa o maior.
+Programa que calcula a área de dois triângulos e informa o maior.
